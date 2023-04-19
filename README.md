@@ -1,7 +1,7 @@
 # Herramientas de gestión de Proyectos:
 
 
-###Análisis de la herramienta **Redmine**:
+### Análisis de la herramienta **Redmine**:
 - ¿Qué son las herramientas CI/DC?
 - ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
 - ¿Qué ofrece?
