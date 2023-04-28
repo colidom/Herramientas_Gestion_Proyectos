@@ -16,3 +16,7 @@
         y errores que no pudimos abordar.
 
         Como última solucion se decidió tratar de descargar Redmine mediante docker.
+
+     APOYO FUENTES:
+        Usamos el repositorio de sameersbn para apoyarnos con el uso de docker para la
+        instalación de Redmine
