@@ -1,0 +1,18 @@
+ ## Comentarios por añadir a la exposición
+     ERRORES:
+        La página principal de REDMINE da problemas a la
+        hora de registrar e iniciar sesión ya que para logear
+        necesitas una confirmación que supuestamente te debería
+        llegar al correo electronico pero este nunca llega.
+
+        Del mismo modo para tratar de descargar e instalar Redmine
+        sin haberse registrado o logeado también da bastantes problemas
+        ya que al tratar de hacerlo presenta cientos de bugs;
+
+        "ADJUNTAR CAPTURA DE ERRORES DE LA DESCARGA DE REDMINE EN UBUNTU"
+
+        Una de las soluciones que encontramos por stackoverflow es descargandolo
+        a través de ruby pero esto a su vez también representa varios problemas
+        y errores que no pudimos abordar.
+
+        Como última solucion se decidió tratar de descargar Redmine mediante docker.
