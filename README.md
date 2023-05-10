@@ -61,17 +61,22 @@ Primeramente hemos descargado el fichero **docker-compose.yml**, fichero de conf
 
 ![<Imagen4>](img/4-compose-up.png)
 
+### Configuración de usuario admin (first login)
+Tras finalizar la instalación el sistema nos pedirá que cambiemos la contraseña predefinida en el sistema:
 
-![<Imagen7>](img/7-create-user.png)
-  
-Dentro de Redmine tenemos facilitada la opción de crear usuarios junto a diversas opciones.
+> Usuario por defecto: `admin`
+> Password por defecto: `admin`
 
 ![<Imagen5>](img/5-admin-interface.png)
-  
+
 Esta misma cuenta también podra ser modificada mas adelante en el caso de que lo requiramos.
 
 ![<Imagen6>](img/6-admin-pannel.png)
-  
+
+
+Dentro de Redmine tenemos además facilitada la opción de crear grupo junto a diversas opciones.
+![<Imagen7>](img/7-create-user.png)
+
 También cuenta con una pestaña de Administración en la que podremos gestionar los proyectos, usuarios, grupos a los que pertenecemos, permisos consultar estados etc...
 
 ![<Imagen9>](img/9-groups.png)
