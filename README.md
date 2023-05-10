@@ -3,9 +3,17 @@
 
 ### Análisis de la herramienta **Redmine**:
 - ¿Qué son las herramientas CI/DC?
+    Son métodos para distribuir las aplicaciones a los clientes con frecuencia mediante el uso de automatización en las estapas de desarrollo.
+
 - ¿Qué es, y dentro de que grupo de las herramientas CI/DC esta?
+    Redmin es una herramienta de gestión de proyectos creada el 15 de junio de 2006 por Jean-Philippe Lang
+
 - ¿Qué ofrece?
+    Redmine ofrece diferentes funcionalidades tales como; seguimiento de indices, errores, calendario de actividades, diagramas, control basado en roles, integración con correo electrónico .
+    
 - Plan de precios.
+    Redmine es de código libre y no hay versión de pago.
+
 - Ejemplo de integración co repositorios de código.
 - Ejemplo de documentación de proyectos.
 - Otras herramientas con las que se integra.
@@ -86,3 +94,4 @@ También cuenta con los diagramas Gram que sirven para visualizar los componente
 
 
 ![<Imagen16>](img/16-add-repo.png)
+![/img/]
