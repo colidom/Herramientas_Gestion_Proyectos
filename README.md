@@ -43,16 +43,24 @@ Si hacemos la comparativa con otras herramientas podemos decir que redmine es de
 En mi opinión recomendaria Redmine sobre otras herramientas de gestión debido a su versatilidad acompañada de la facilidad de usar que tiene, también que sea de código abierto es algo positivo para gente que esta empezando y no quiere pagar por algo que no sabe si le gustara y el problema la interfaz poco atractiva puede ser superada con el uso de temas dentro de la propia applicación.
 
 ### Fuentes
-https://github.com/sameersbn/docker-redmine
+Para la realización de este proyecto hemos usado la siguiente [fuente](https://github.com/sameersbn/docker-redmine).
 
+
+Debido a diversos problemas instalando la aplicación descargada en la [web oficial](https://www.redmine.org/) de Redmine decidimos montar un contenedor [Docker](https://www.docker.com/) que nos facilitara y agilizara el trabajo.
+
+
+### Instalación Docker
+Primeramente hemos descargado el fichero **docker-compose.yml**, fichero de configuración para la herramienta de ejecución y definición de aplicaciones en contenedores denominada Docker Compose.
+
+> Fichero **docker-compose.yml**
 
 ![<Imagen1>](/img/1-dockerfile.png)
 
 
+> Mediante el comando `docker-compose up` podemos crear el contenedor que contiene nuestro proyecto, así de sencillo.
 
 ![<Imagen4>](img/4-compose-up.png)
-  
-Debido a diversos problemas con la instalación de Redmine que hemos tenido optamos por tuvimos que descargrlo en docker y abrirlo en local.
+
 
 ![<Imagen7>](img/7-create-user.png)
   
