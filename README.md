@@ -102,4 +102,3 @@ También cuenta con los diagramas Gram que sirven para visualizar los componente
 
 
 ![<Imagen16>](img/16-add-repo.png)
-![/img/]
