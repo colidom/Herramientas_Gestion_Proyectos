@@ -91,6 +91,8 @@ Otra de las diversas opciones que tiene Redmine es la "Wiki del proyecto" en el 
 También cuenta con los diagramas Gram que sirven para visualizar los componentes básicos y no tan básicos de un proyecto y organizarlos en tareas más pequeñas y gestionable, estas a su vez pueden ser asignadas a diversos usuarios.
 
 ![<Imagen14>](img/14-files.png)
-
+Redmine cuenta con un apartado en el que dentro del repositorio podemos ver y añadir fichero especificamente.
 
 ![<Imagen16>](img/16-add-repo.png)
+Del mismo modo contamos con un apartado en el que podemos modificar las opciones del repositorio en si.
+
