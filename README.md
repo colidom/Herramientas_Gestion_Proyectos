@@ -20,7 +20,7 @@
 - Comparativa con otras herramientas.
 - ¿Por qué escoger la herramienta frente a otras?
 
-*Redmine* es una herramienta de gestión de proyectos y seguimiento de problemas que permite realizar un seguimiento del progreso de proyectos, bugs y tareas dentro de una organización. Es de código abierto y se puede personalizar para adaptarse a las necesidades específicas de cada organización. Ofrece una amplia gama de características que incluyen seguimiento de tiempo, seguimiento de errores, gestión de documentos, gestión de proyectos, gestión de versiones, colaboración en equipo, y más. Además, *Redmine* tiene una **interfaz visual** y fácil de usar que simplifica la gestión de proyectos y ayuda a los equipos a colaborar y comunicarse. 
+*Redmine* es una herramienta de gestión de proyectos y seguimiento de problemas que permite realizar un **seguimiento del progreso de proyectos**, **bugs** y **tareas dentro de una organización**. Es de código abierto y se puede personalizar para adaptarse a las necesidades específicas de cada organización. Ofrece una amplia gama de **características** que incluyen seguimiento de tiempo, **seguimiento de errores, gestión de documentos, gestión de proyectos, gestión de versiones, colaboración en equipo, y más**. Además, *Redmine* tiene una **interfaz visual** y fácil de usar que simplifica la gestión de proyectos y ayuda a los equipos a colaborar y comunicarse. 
 
 Se trata de una herramienta gratuita para descargar e instalar, lo que la hace una opción de bajo costo para las organizaciones que buscan una solución de seguimiento de problemas y gestión de proyectos integrados. También hay un gran número de complementos disponibles que la ayudan a ampliar sus capacidades.
 
@@ -56,6 +56,8 @@ Primeramente hemos descargado el fichero **docker-compose.yml**, fichero de conf
 
 ![<Imagen4>](img/4-compose-up.png)
 
+### Configuración de usuario admin (first login)
+Tras finalizar la instalación el sistema nos pedirá que cambiemos la contraseña predefinida en el sistema:
 
 ![<Imagen7>](img/7-create-user.png)
   
