@@ -107,3 +107,17 @@ Del mismo modo contamos con un apartado en el que podemos modificar las **opcion
 
 Asímismo cuando añadimos un repositorio a nuestra aplicación podemos hacer uso de un histórico de actividades de este repositorio, con lo cual es una funcionalidad más que facilita la gestión de un proyecto centralizada en un mismo sitio.
 ![<Imagen17>](img/17-actividad.png)
+
+Tras añadir el repositorio de github en nuestra herramienta tenemos también la posibilidad de hacer un **diff** entre varios commits para comprobar en detalle el cambio que se ha hecho en dicho commit.
+![<Imagen18>](img/18-repositorio.png)
+
+A continuación podemos ver el commit en detalle y a su vez los cambios que se han realizado.
+![<Imagen19>](img/19-diff-repo.png)
+
+
+### Problemas con la herramineta
+Hemos tenido dificultades a la hora de asignar un proyecto a los usuarios ya que nos aparece el siguiente error:
+![<Imagen20>](img/20-add-project-fail.png)
+
+Según lo que informa el error el usuario al que intentamos asignar un proyecto no tiene su perfil cumplimentado y como podemos ver a continuación si lo está a falta de añadir el **2FA** y creemos puede ser el causante del error anterior.
+![<Imagen21>](img/21-user-profile.png)
