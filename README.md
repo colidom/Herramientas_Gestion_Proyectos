@@ -40,7 +40,7 @@ En comparación con otras herramientas de gestión de proyectos y seguimiento de
 En resumen, *Redmine* es una herramienta de gestión de proyectos y seguimiento de errores de **código abierto** que ofrece una amplia variedad de características y funcionalidades personalizables a bajo costo. Con **integraciones con repositorios** de código, una **documentación completa**, y **complementos disponibles**, es una herramienta a tener en cuenta para la gestión de proyectos y seguimiento de errores.
 
 
-### Fuentes
+## Fuentes de instalación
 
 Para la realización de este proyecto hemos usado la siguiente [fuente](https://github.com/sameersbn/docker-redmine).
 
