@@ -20,6 +20,11 @@
 - Comparativa con otras herramientas.
 - ¿Por qué escoger la herramienta frente a otras?
 
+---
+
+<div style="text-align:center"><img src="/img/logo.png" /></div>
+<br>
+
 *Redmine* es una herramienta de gestión de proyectos y seguimiento de problemas que permite realizar un **seguimiento del progreso de proyectos**, **bugs** y **tareas dentro de una organización**. Es de código abierto y se puede personalizar para adaptarse a las necesidades específicas de cada organización. Ofrece una amplia gama de **características** que incluyen seguimiento de tiempo, **seguimiento de errores, gestión de documentos, gestión de proyectos, gestión de versiones, colaboración en equipo, y más**. Además, *Redmine* tiene una **interfaz visual** y fácil de usar que simplifica la gestión de proyectos y ayuda a los equipos a colaborar y comunicarse. 
 
 Se trata de una herramienta gratuita para descargar e instalar, lo que la hace una opción de bajo costo para las organizaciones que buscan una solución de seguimiento de problemas y gestión de proyectos integrados. También hay un gran número de complementos disponibles que la ayudan a ampliar sus capacidades.
@@ -34,7 +39,6 @@ En comparación con otras herramientas de gestión de proyectos y seguimiento de
 
 En resumen, *Redmine* es una herramienta de gestión de proyectos y seguimiento de errores de **código abierto** que ofrece una amplia variedad de características y funcionalidades personalizables a bajo costo. Con **integraciones con repositorios** de código, una **documentación completa**, y **complementos disponibles**, es una herramienta a tener en cuenta para la gestión de proyectos y seguimiento de errores.
 
-![<logo>](img/descarga.png)
 
 ### Fuentes
 
