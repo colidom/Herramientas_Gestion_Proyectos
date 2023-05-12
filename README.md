@@ -103,7 +103,7 @@ También cuenta con los **diagramas Gram** que sirven para visualizar los compon
 Redmine cuenta con un apartado en el que dentro del repositorio podemos ver y añadir **ficheros** especificamente.
 
 ![<Imagen16>](img/16-add-repo.png)
-Del mismo modo contamos con un apartado en el que podemos modificar las *opciones del repositorio* en si.
+Del mismo modo contamos con un apartado en el que podemos modificar las **opciones del repositorio** en si.
 
-  
+Asímismo cuando añadimos un repositorio a nuestra aplicación podemos hacer uso de un histórico de actividades de este repositorio, con lo cual es una funcionalidad más que facilita la gestión de un proyecto centralizada en un mismo sitio.
 ![<Imagen16>](img/17-actividad.png)
