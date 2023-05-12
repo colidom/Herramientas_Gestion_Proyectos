@@ -105,3 +105,5 @@ Redmine cuenta con un apartado en el que dentro del repositorio podemos ver y a√
 ![<Imagen16>](img/16-add-repo.png)
 Del mismo modo contamos con un apartado en el que podemos modificar las *opciones del repositorio* en si.
 
+  
+![<Imagen16>](img/17-actividad.png)
