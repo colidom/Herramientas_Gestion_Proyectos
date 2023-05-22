@@ -37,7 +37,7 @@ También se *integra* con otras herramientas populares para la gestión de proye
 
 En comparación con otras herramientas de gestión de proyectos y seguimiento de errores, como JIRA y Trello, *Redmine* es más personalizable y económico además de poder funcionar tanto para **organizaciones pequeñas** como **grandes** debido a su flexibilidad y escalabilidad.
 
-En resumen, *Redmine* es una herramienta de gestión de proyectos y seguimiento de errores de **código abierto** que ofrece una amplia variedad de características y funcionalidades personalizables a bajo costo. Con **integraciones con repositorios** de código, una **documentación completa**, y **complementos disponibles**, es una herramienta a tener en cuenta para la gestión de proyectos y seguimiento de errores.
+En resumen, *Redmine* es una herramienta de gestión de proyectos y seguimiento de errores de **código abierto** que ofrece una amplia **variedad de características** y **funcionalidades personalizables a bajo costo**. Con **integraciones con repositorios** de código, una **documentación completa**, y **complementos disponibles**, es una herramienta a tener en cuenta para la gestión de proyectos y seguimiento de errores.
 
 
 ## Fuentes de instalación
